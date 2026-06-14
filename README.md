@@ -3,7 +3,7 @@ Experimental code for Bures–Wasserstein Geometry and Reference Estimation for 
 
 This repository implements covariance-matrix-based artifact detection on the **TUAR** and **EEGEOG** datasets. It supports training and evaluation of Potato-based models under both **cross-subject** and **cross-session** settings.
 
-
+<p class="callout info">A success message</p>
 ---
 
 ## Overview
