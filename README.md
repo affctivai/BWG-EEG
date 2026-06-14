@@ -3,7 +3,12 @@ Experimental code for Bures–Wasserstein Geometry and Reference Estimation for 
 
 This repository implements covariance-matrix-based artifact detection on the **TUAR** and **EEGEOG** datasets. It supports training and evaluation of Potato-based models under both **cross-subject** and **cross-session** settings.
 
-<p class="callout info">A success message</p>
+> This repository is a placeholder for the implementation of our manuscript on transport-median scoring for EEG covariance anomaly detection.
+
+> The source code will be released when the manuscript enters the revision stage. The release will include preprocessing scripts, implementations of the controlled SPD scoring variants, evaluation protocols, and figure-generation code needed to reproduce the main experiments.
+
+> The datasets are not redistributed in this repository. Users should obtain them from the original data providers and comply with the corresponding data-use agreements.
+
 ---
 
 ## Overview
